@@ -5,7 +5,7 @@ user-agent: ZakFarmer
 
 sites:
   - name: Test Environment
-    url: https://test.cadencebot.net/heatlhcheck
+    url: https://test.cadencebot.net/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
