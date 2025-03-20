@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.cadencebot.net.ico",
     "slug": "test-environment",
     "status": "up",
-    "uptime": "5.43%",
-    "uptimeDay": "5.43%",
-    "uptimeWeek": "5.43%",
-    "uptimeMonth": "5.43%",
-    "uptimeYear": "5.43%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1268,
     "timeDay": 1268,
     "timeWeek": 1268,
     "timeMonth": 1268,
     "timeYear": 1268,
-    "dailyMinutesDown": {
-      "2025-03-20": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
