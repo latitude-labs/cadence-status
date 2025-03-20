@@ -1,5 +1,5 @@
-owner: PeriheliaSoftworks # Your GitHub organization or username, where this repository lives
-repo: cadence-status # The name of this repository
+owner: PeriheliaSoftworks
+repo: cadence-status
 
 sites:
   - name: Test Environment
