@@ -3,9 +3,10 @@ repo: cadence-status # The name of this repository
 
 sites:
   - name: Test Environment
-    url: https://test.cadencebot.net/heatlh
+    url: https://test.cadencebot.net/heatlhcheck
+
   - name: Live Environment
-    url: https://cadencebot.net/health
+    url: https://api.templebot.co.uk/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
