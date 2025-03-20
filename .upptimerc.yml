@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cadencebot.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/PeriheliaSoftworks/cadence-status/master/assets/cadence-icon-monotone.png
   name: Cadence
   introTitle: "Welcome to the **Cadence** status page."
   introMessage: All incidents and status updates affecting the Cadence service will be shown here.
