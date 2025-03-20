@@ -1,6 +1,8 @@
 owner: PeriheliaSoftworks
 repo: cadence-status
 
+user-agent: ZakFarmer
+
 sites:
   - name: Test Environment
     url: https://test.cadencebot.net/heatlhcheck
