@@ -4,9 +4,9 @@
     "url": "https://test.cadencebot.net/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/test.cadencebot.net.ico",
     "slug": "test-environment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1771,
     "timeMonth": 1345,
     "timeYear": 1251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-14": 0
+    }
   },
   {
     "name": "Live Environment",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cadencebot.net.ico",
     "slug": "live-environment",
     "status": "up",
-    "uptime": "96.29%",
+    "uptime": "96.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.29%",
+    "uptimeYear": "96.34%",
     "time": 1103,
     "timeDay": 1329,
     "timeWeek": 1212,
