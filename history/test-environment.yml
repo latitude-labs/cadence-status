@@ -1,7 +1,7 @@
 url: https://test.cadencebot.net/healthcheck
-status: up
-code: 200
-responseTime: 983
-lastUpdated: 2025-07-09T23:03:23.435Z
+status: down
+code: 503
+responseTime: 314
+lastUpdated: 2025-07-10T19:22:46.910Z
 startTime: 2025-03-20T22:10:28.351Z
 generator: Upptime <https://github.com/upptime/upptime>
