@@ -4,8 +4,8 @@ repo: cadence-status
 user-agent: ZakFarmer
 
 sites:
-  - name: Test Environment
-    url: https://test.cadencebot.net/healthcheck
+  - name: Staging Environment
+    url: https://staging.cadencebot.net/healthcheck
 
   - name: Live Environment
     url: https://cadencebot.net/healthcheck
