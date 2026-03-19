@@ -1,7 +1,7 @@
 url: https://staging.cadencebot.net/healthcheck
-status: up
-code: 200
-responseTime: 358
-lastUpdated: 2026-03-18T23:08:11.540Z
+status: down
+code: 502
+responseTime: 523
+lastUpdated: 2026-03-19T21:25:09.167Z
 startTime: 2026-03-16T14:18:37.627Z
 generator: Upptime <https://github.com/upptime/upptime>
