@@ -4,18 +4,20 @@
     "url": "https://staging.cadencebot.net/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/staging.cadencebot.net.ico",
     "slug": "staging-environment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 358,
-    "timeWeek": 368,
-    "timeMonth": 368,
-    "timeYear": 368,
-    "dailyMinutesDown": {}
+    "time": 399,
+    "timeDay": 441,
+    "timeWeek": 399,
+    "timeMonth": 399,
+    "timeYear": 399,
+    "dailyMinutesDown": {
+      "2026-03-19": 0
+    }
   },
   {
     "name": "Live Environment",
