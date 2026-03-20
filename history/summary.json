@@ -4,17 +4,17 @@
     "url": "https://staging.cadencebot.net/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/staging.cadencebot.net.ico",
     "slug": "staging-environment",
-    "status": "down",
-    "uptime": "99.62%",
+    "status": "up",
+    "uptime": "99.63%",
     "uptimeDay": "98.73%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 399,
-    "timeDay": 441,
-    "timeWeek": 399,
-    "timeMonth": 399,
-    "timeYear": 399,
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 395,
+    "timeDay": 430,
+    "timeWeek": 395,
+    "timeMonth": 395,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2026-03-19": 18
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.41%",
     "time": 720,
-    "timeDay": 470,
-    "timeWeek": 466,
-    "timeMonth": 453,
+    "timeDay": 370,
+    "timeWeek": 449,
+    "timeMonth": 448,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2026-03-05": 39,
@@ -45,8 +45,7 @@
       "2025-08-27": 16,
       "2025-07-10": 16,
       "2025-03-22": 1350,
-      "2025-03-21": 1440,
-      "2025-03-20": 103
+      "2025-03-21": 1440
     }
   }
 ]
